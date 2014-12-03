@@ -1,0 +1,15 @@
+<player>
+    <name>as;dlfkvjaslgfovnaqw</name>
+    <attack>100.0</attack>
+    <defense>100.0</defense>
+    <goalkeeping>100.0</goalkeeping>
+    <staminafactor>100.0</staminafactor>
+    <stamina>100.0</stamina>
+    <position>1</position>
+    <aggression>10.0</aggression>
+    <price>100</price>
+    <teamid>100</teamid>
+    <card>0</card>
+    <injuryleft>0</injuryleft>
+    <forsale>true</forsale>
+</player>
